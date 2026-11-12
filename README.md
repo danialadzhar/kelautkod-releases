@@ -45,6 +45,11 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.2**
+
+- Open the browser from the + menu, as a tab next to your terminals.
+- New Task at the top of the sidebar replaces the Inbox.
+
 **1.0.1**
 
 - Notifications: macOS tells you when an agent needs you or has finished, and the Dock icon shows how many agents need you.
