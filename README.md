@@ -45,6 +45,13 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.1**
+
+- Notifications: macOS tells you when an agent needs you or has finished, and the Dock icon shows how many agents need you.
+- Search: Cmd+P opens a file by its name, and Cmd+Shift+F searches the text of every file.
+- Settings (Cmd+,): the terminal and editor font and size, a dark or light theme, and notifications on or off.
+- Calmer status dots, and a launch screen with a progress bar.
+
 **1.0.0**: the first public release.
 
 - Run Claude Code, Codex or a shell in several folders, with live status.
