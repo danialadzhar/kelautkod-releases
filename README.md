@@ -45,6 +45,12 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.4**
+
+- Each session has its own browser tabs, and Claude can use them by number.
+- Start a new session from the + on a folder in the sidebar.
+- Fixed: Claude Code's prompt box no longer disappears when you switch tabs.
+
 **1.0.3**
 
 - Closing a tab keeps the session; delete from the sidebar only.
