@@ -45,6 +45,12 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.3**
+
+- Closing a tab keeps the session; delete from the sidebar only.
+- Folders in the sidebar fold open and closed, and show 5 sessions at first.
+- View icons sit under the tabs, and Git History is side by side.
+
 **1.0.2**
 
 - Open the browser from the + menu, as a tab next to your terminals.
