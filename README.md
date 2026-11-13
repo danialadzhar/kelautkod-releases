@@ -45,6 +45,30 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.8**
+
+- Mobile view: see any page as an iPhone, in a phone frame, alone or beside the terminal.
+- macOS keeps permissions like Full Disk Access across updates (it asks one last time after this one).
+- A cleaner sidebar and pane head, and updates only in a popup.
+
+**1.0.7**
+
+- Updates download in a popup and ask to restart when ready.
+- See how much context a session has used, and its Git branch.
+- Open any browser tab as a live Mini Browser, video included.
+
+**1.0.6**
+
+- Drag the folder icon onto the terminal to see Folder Lists beside it, and move the terminal to either side.
+- Right-click a file, or select lines, to attach them to Claude's prompt.
+- A smoother, faster terminal.
+
+**1.0.5**
+
+- Each session has its own tab strip.
+- Drag a browser tab onto the terminal to split the view.
+- Select element: pick part of a page and send it to Claude's prompt.
+
 **1.0.4**
 
 - Each session has its own browser tabs, and Claude can use them by number.
@@ -81,7 +105,7 @@ See [all releases](https://github.com/danialadzhar/kelautkod-releases/releases) 
 
 ## Updates
 
-KelautKod checks for a new version by itself. When one is ready, the status bar says so: click **Restart to update**. You can also choose **KelautKod → Check for Updates…**. Only updates signed by the author are accepted.
+KelautKod checks for a new version by itself. When one is ready, a popup says so: click **Restart to update**. You can also choose **KelautKod → Check for Updates…**. Only updates signed by the author are accepted.
 
 For updates to work, KelautKod needs to be in the **Applications** folder.
 
