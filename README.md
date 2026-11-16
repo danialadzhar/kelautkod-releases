@@ -45,6 +45,11 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.23**
+
+- Tables show as tables while Claude is writing, and text selected in a table stays selected.
+- Switch models without a confirm card, close the mini browser, and session tabs stay pinned.
+
 **1.0.22**
 
 - A button above the message box jumps back to the newest message when you scroll up.
