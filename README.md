@@ -16,7 +16,7 @@
 
 ## What KelautKod does
 
-- **Many sessions, one window.** Open a folder and start Claude Code there. Keep as many folders and sessions as you like. A dot on each one tells you if it needs you, is working, or is done, so you do not have to watch them.
+- **Many sessions, one window.** Open a folder and start Claude Code there. Keep as many folders and sessions as you like. A dot on each one tells you if it needs you or is working, so you do not have to watch them.
 - **A browser Claude can use.** Claude can open pages, read them, click and type, in a browser inside KelautKod. You can watch it in a small window, take over any time, and bring in your logins from Chrome.
 - **Git history.** See the commits of a project as a graph, with branches and tags. Click a change to compare the old and new file side by side.
 - **A small editor.** Browse the folder, open files in tabs with colours and icons, edit and save, and preview images. When Claude changes a file, you see it right away.
@@ -44,6 +44,78 @@ KelautKod is not yet notarized by Apple, so macOS asks you to confirm once:
 You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
+
+**1.0.22**
+
+- A button above the message box jumps back to the newest message when you scroll up.
+- Click a quote in a sent message to go back to the reply text it came from, and find pins in the top-left corner.
+
+**1.0.21**
+
+- Claude sessions can talk to each other: mention one with @ and Claude passes your message on.
+- Pin text from a reply and jump back to it, drop files anywhere on the chat, and open with Folder Lists beside the chat.
+
+**1.0.20**
+
+- The chat works without the terminal: rewind, export, theme and editor setup open as cards, and new sessions open in chat.
+- A new look with card panels and the tabs across the top.
+
+**1.0.19**
+
+- Run long commands in the background from the chat, see their output and stop them, without the terminal.
+- Sent pictures show as thumbnails, and a chat | terminal toggle sits in the pane head.
+
+**1.0.18**
+
+- Answer Claude's questions from the chat, and add a note when you allow or deny something.
+- See what each tool returned, and mark up pictures before you send them.
+
+**1.0.17**
+
+- The chat can rename, tag and fork conversations, show subagents' work, and cancel queued messages.
+- `/config`, `/status`, `/memory`, `/skills`, `/permissions`, `/hooks` and `/plugin` open in the chat, and long conversations can load earlier messages.
+
+**1.0.16**
+
+- A new bar under the chat box for the model, effort, fast mode, permissions and your plan usage.
+- Slash commands show their output in the chat, and `/resume`, `/mcp`, `/agents`, `/login` and `/usage` open chat panels.
+
+**1.0.15**
+
+- The chat keeps saying "Claude is working" after you queue a message, and shows for how long.
+- A quoted reply shows as a quote, not as raw tags.
+
+**1.0.14**
+
+- Type `@` in the chat for files, folders and your other sessions, and send a message to another session.
+- Sessions name themselves from the conversation; names you give stay.
+- Queued messages with "Send now", and cleaner live replies.
+
+**1.0.13**
+
+- The chat now runs on top of the terminal: Remote Control, every command and skill work from the chat.
+- Live replies, menus as buttons, links and files open beside the chat.
+- A cleaner chat: centred, floating message box, tool calls folded.
+
+**1.0.12**
+
+- Chat with Claude: switch any Claude session between the terminal and a chat view.
+- Attach images and files, pick the model, effort and permission mode, and use / for commands and skills.
+- Reply to part of Claude's answer by selecting it and pressing Reply.
+
+**1.0.11**
+
+- No more "done" status or "Done" notifications. A finished agent goes back to idle.
+
+**1.0.10**
+
+- Run an iOS Simulator inside KelautKod, beside the terminal (needs Xcode).
+
+**1.0.9**
+
+- Run an Android emulator inside KelautKod, beside the terminal (needs Android Studio).
+- See uncommitted files beside the terminal as Claude works, with a count on the Git icon.
+- The keyboard goes straight to Claude's prompt when you open a session.
 
 **1.0.8**
 
