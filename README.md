@@ -45,6 +45,11 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.31**
+
+- Claude can show a page (a chart, a report, a small tool) in an Artifacts panel beside the Beta chat, and change it in place.
+- The page runs in a sandbox: no network calls, and no access to your browser logins.
+
 **1.0.30**
 
 - A Subagents panel shows live what each subagent is doing, with a count in the chat bar.
