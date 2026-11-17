@@ -45,6 +45,12 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.29**
+
+- Typing stays put while Claude uses the browser in another session.
+- .env and other dot files open inside your projects; outside them they stay hidden.
+- Run in background in the Beta chat works again.
+
 **1.0.28**
 
 - One chat: the Beta chat replaces the old Chat view, next to the Terminal.
