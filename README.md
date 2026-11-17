@@ -45,6 +45,12 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.32**
+
+- All your artifacts in one place, from the sidebar, with Export to an .html file.
+- Comment on parts of an artifact; the comments collect in the chat for Claude.
+- Deleting a session or project deletes its artifacts.
+
 **1.0.31**
 
 - Claude can show a page (a chart, a report, a small tool) in an Artifacts panel beside the Beta chat, and change it in place.
