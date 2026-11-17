@@ -45,6 +45,34 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.28**
+
+- One chat: the Beta chat replaces the old Chat view, next to the Terminal.
+- Menus and panels in the Beta chat open faster, from the session itself.
+- Claude's browser can upload files, run scripts on local pages, press keys and read console and network logs.
+
+**1.0.27**
+
+- The Beta chat is the new default: replies show live while Claude writes them, with every chat feature, all in the chat.
+- Switching to or from the Beta chat asks first.
+
+**1.0.26**
+
+- View icons sit at the end of the tab row, and the session's tab stays in every view.
+- Run an iPhone and an Android phone side by side in Devices, in a drawn iPhone body.
+- The usage ring stays, finished replies no longer blink, and chat tables keep their words whole.
+
+**1.0.25**
+
+- Search the chat with Cmd+F, search every session with Cmd+K, and find a file or folder with Cmd+Shift+P.
+- PDF, video, sound and other files open in a view of their own.
+- No more jump when you come back to a session, equal-size tabs, and no blue ring on inputs.
+
+**1.0.24**
+
+- Camera buttons in the browser take a screenshot of the page or of an area you drag, and attach it to your message to Claude.
+- A typing bubble shows while Claude works, and the Model and Effort menus no longer overlap in a narrow chat.
+
 **1.0.23**
 
 - Tables show as tables while Claude is writing, and text selected in a table stays selected.
