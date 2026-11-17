@@ -45,6 +45,13 @@ You only do this once. Updates from inside the app do not ask again.
 
 ## What's new
 
+**1.0.30**
+
+- A Subagents panel shows live what each subagent is doing, with a count in the chat bar.
+- Subagents can test with the built-in browser.
+- The browser tools sit in one grid button, and the mini browser has only Close.
+- Small fixes: focus when switching sessions, the changes panel on the right, long folder names, pictures sent once.
+
 **1.0.29**
 
 - Typing stays put while Claude uses the browser in another session.
